@@ -1,0 +1,8 @@
+apify-client==1.5.0
+yfinance==0.2.31
+pandas==1.4.3
+python-dotenv==1.0.0
+httpx==0.24.1
+pyspark
+findspark
+pendulum

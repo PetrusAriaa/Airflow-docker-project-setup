@@ -1,0 +1,11 @@
+#datasets
+frames/*.csv
+*.csv
+
+#secrets
+.env
+.env.production
+
+#cache
+*/__pycache__
+__pycache__
