@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+apify-client = "==1.5.0"
+yfinance = "==0.2.31"
+pandas = "==1.4.3"
+python-dotenv = "==1.0.0"
+httpx = "==0.24.1"
+sqlalchemy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

@@ -9,3 +9,5 @@ def Start():
     StartPipeline()
     
     subprocess.call("rm -rf frames", shell=True)
+
+Start()
